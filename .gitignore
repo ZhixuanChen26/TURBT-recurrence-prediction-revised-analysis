@@ -1,0 +1,19 @@
+# Patient / clinical data
+*.xlsx
+*.xls
+*.csv
+
+# Word documents
+*.docx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local data directories
+data/
+raw_data/
