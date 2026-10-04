@@ -2,9 +2,6 @@
 
 Multimodel comparison, calibration, decision-curve analysis, and SHAP explanation for recurrence within two years.
 
-[!\[Python](https://img.shields.io/badge/Python-3.8%2B-3776AB)](https://www.python.org/)
-\[!\[Status](https://img.shields.io/badge/status-research%20code-orange)]()
-
 This repository predicts **recurrence within two years** (`Recurrence`: 0 = no recurrence, 1 = recurrence) from preoperative clinical, laboratory, pathological, and imaging variables. It publishes the analysis code and method notes only. **It does not contain patient-level data.**
 
 \---
